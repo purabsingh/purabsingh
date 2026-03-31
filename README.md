@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Purab Singh  
+B.Tech Aerospace engineering, 1st Year  
+
+I am interested in learning programming and improving my digital skills.
 
 <!--
 **purabsingh/purabsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
